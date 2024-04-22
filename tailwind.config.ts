@@ -14,6 +14,13 @@ const config: Config = {
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
     },
+    colors: {
+      'terracota': '#de6c5c',
+      'white': '#fefefe',
+    },
+    fontFamily: {
+      'patrick-hand': ['"Patrick Hand"', 'cursive']
+    },
   },
   plugins: [],
 };
